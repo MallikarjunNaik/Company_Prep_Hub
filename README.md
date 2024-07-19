@@ -1,1 +1,1 @@
-DSA and DP questions related to company solved in C++ and Python language.
+This repository contains a collection of well-documented and optimized solutions to various DSA  problems. Each problem includes solutions in C++, providing a comprehensive approach to different coding challenges you might encounter during your interview preparation.
